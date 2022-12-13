@@ -4,9 +4,9 @@
 
 If you give Click: Link relative path, same folder or path Index 2 this appears: Index 2
 
-If you click: Link to subfolder Link1 this appears: # Link 1
+If you click: Link to subfolder Link1 this appears: Link 1
 
-If you click: a sub/subfolder this appears: # HTML Course
+If you click: a sub/subfolder this appears: HTML Course
 
 # Programming languages
 - HTML
